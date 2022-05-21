@@ -1,1 +1,2 @@
 r_dir_file(vendor_vppservice, public_adsprpcd_file)
+type hal_vpp_hwservice, hwservice_manager_type;
